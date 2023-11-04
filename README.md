@@ -4,6 +4,15 @@ INF5860/INF9860 - Machine Learning for Image Analysis\
 University of Oslo\
 Spring 2018
 
+## Package Requirement
+
+The follwing packages are required in this project
+```
+tensorflow==1.15
+```
+
+
+
 ## Content
 
 Everything you need for this exercise is contained in this folder. A brief description of the
